@@ -1,5 +1,5 @@
 {
-	"name": "bleicker/routing",
+	"name": "bleicker/exception",
 	"require": {},
 	"require-dev": {
 		"phpunit/phpunit": "*"
