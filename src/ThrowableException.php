@@ -11,4 +11,6 @@ use Exception;
  */
 class ThrowableException extends Exception {
 
+	const STATUS = 500;
+
 }
