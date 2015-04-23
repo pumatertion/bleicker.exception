@@ -9,8 +9,7 @@ use Exception;
  *
  * @package Bleicker\Exception
  */
-class ThrowableException extends Exception {
+class ThrowableException extends Exception implements ThrowableExceptionInterface {
 
 	const STATUS = 500;
-
 }
