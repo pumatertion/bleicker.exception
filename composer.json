@@ -1,9 +1,6 @@
 {
 	"name": "bleicker/exception",
-	"require": {},
-	"require-dev": {
-		"phpunit/phpunit": "*"
-	},
+	"type": "library",
 	"authors": [
 		{
 			"name": "Carsten Bleicker",
